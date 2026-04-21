@@ -13,8 +13,8 @@
 - ✅ 验证安装成功
 
 **位置**: 
-- 仓库: `C:\Users\guohuijun.toky\antigravity-skills`
-- 全局: `C:\Users\guohuijun.toky\.gemini\antigravity\skills`
+- 仓库: `<LOCAL>/antigravity-skills`
+- 全局: `<USER_HOME>/.gemini/antigravity/skills`
 
 ---
 

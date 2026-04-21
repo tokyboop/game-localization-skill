@@ -35,7 +35,7 @@
 ### 测试 1: 基础翻译 (不使用术语表)
 
 ```powershell
-cd "C:\Users\guohuijun.toky\.gemini\antigravity\playground\game-localization"
+cd /path/to/game-localization
 
 python scripts/translate.py examples/to_translate_new_content.csv --target zh-CN
 ```
